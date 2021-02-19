@@ -2,6 +2,7 @@
 A basic analysis of crash data for Bloomington, IN from the years 2003 - 2015. 
 
 The data were obtained from the following site: https://catalog.data.gov/dataset/traffic-data/resource/e46a5cc5-ed4d-4b8d-b750-18e6c9ec570e
+EDIT: Apparently this link no longer works, but of course, you're free to download the data from this page :)
 
 The accompanying PDF explains the analyses that I did, which themselves can be found in the .py file in this repository. 
 
